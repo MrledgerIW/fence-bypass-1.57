@@ -39,6 +39,9 @@ For information on Arxan bypass, we recommend referring to mallgrab / CWHook.
 - arxan Integrity Checks Infos                                            : momo5502 blogs               ( https://momo5502.com/posts/2022-11-17-reverse-engineering-integrity-checks-in-black-ops-3/ )
 - Some LUA debugging reference & good support , Lobby relations           : Lebta2
 - IW8+ LAN logic hint                                                     : .r4v3n's MW19 Beta LAN Patch ( ** I found these functions by myself by looking at the readme.txt of his Beta, but the original discoverer of this LAN is .r4v3n, so the credit goes to him. ** )
+- Darklasterkiller                                                        :for reversing and found the signatur
+- MrLedger                                                                :ricochet bypass
+- 
 
 
 -----
